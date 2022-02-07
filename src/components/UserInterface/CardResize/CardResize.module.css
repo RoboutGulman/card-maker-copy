@@ -1,0 +1,17 @@
+.cardResize{
+    margin-left: 20px;
+    display:flex;
+}
+.input{
+    size:10;
+}
+.text{
+    padding:9px;
+    display:flex;
+    justify-content: center;
+    font: 600 14px Arial;
+    text-transform: capitalize;
+}
+.space{
+    width: 5px;
+}

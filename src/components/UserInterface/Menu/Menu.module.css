@@ -1,0 +1,10 @@
+.Menu{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+.border {
+    height: 2px;
+    background:#1f324f00;
+    margin-bottom: 2px;
+  }

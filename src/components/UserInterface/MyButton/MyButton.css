@@ -1,0 +1,16 @@
+.button {
+    background: #fcfcfcab;
+    font: 600 14px Arial;
+    padding: 5px 10px;
+    cursor: pointer;
+    width: fit-content;
+    position: relative;
+  }
+  
+  .button_hover {
+    background: #767e7846;
+  }
+  
+.button-text{
+  font: '600 14px Arial'
+}

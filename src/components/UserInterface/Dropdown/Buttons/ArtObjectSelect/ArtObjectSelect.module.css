@@ -1,0 +1,12 @@
+.Menu {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+}
+
+.content {
+  width: 10vw;
+}
+.Loading{
+  display:none;
+}
